@@ -19,7 +19,18 @@
   
   <p>
   I'm a person who put my passion in data. For me, Data is Magic and i'm on a thrilling quest to transform raw data into business gold! With unbridled passion, I'm constantly innovating and collaborating to craft data-driven stories that spark creativity and solving a problem
-  <p>
-  
-</div>
+  </p>
 
+# Github Stast :bar_chart:
+    
+  <p align="center">    
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=widiarsaf&show_icons=true&theme=radical"/>
+  <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widiarsaf&langs_count=8&layout=compact&show_icons=true&theme=radical" />
+  </p>
+
+
+<p align="center">
+  <img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com?user=widiarsaf&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />  
+</p>
+
+</div>
